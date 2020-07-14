@@ -120,3 +120,5 @@ Further reading resources that are not specifically tied to any notebooks.
 - [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK)
 - [Advanced NLP Projects with TensorFlow 2.0](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)
 - [Simple-Python-Chatbot](https://github.com/jerrytigerxu/Simple-Python-Chatbot)
+    - [Example_Chatbot_GUI](https://dzone.com/articles/python-chatbot-project-build-your-first-python-pro)
+    - [Example in TowardDataScience](https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning-in-less-than-an-hour-56a063bdfc44)
