@@ -1,6 +1,15 @@
-Source:
+Source: [https://www.kaggle.com/samdeeplearning/deepnlp]
 1) https://www.wordstream.com/blog/ws/2017/10/04/chatbot
+
+Kaggle:
+---------------------------------------------------------------------
 2) https://www.kaggle.com/melkmanszoon/building-a-chatbot
 3) https://www.kaggle.com/questions-and-answers/58003
 4) https://www.kaggle.com/manzoormahmood/getting-started-with-chatbot
 5) https://www.kaggle.com/cristianossd/nlp-chatbot-using-nltk
+6) https://github.com/manzoormahmood/Tourist-Guide-Chatbot
+
+Github:
+---------------------------------------------------------------------
+7) https://github.com/jerrytigerxu/Simple-Python-Chatbot
+8) https://github.com/yomnaomar/Deep-NLP-Challenge/blob/master/deep_nlp_module.py
